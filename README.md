@@ -21,6 +21,7 @@ CONFIDENCE: 82.4%
 
 CATEGORY BREAKDOWN:
 Equity               +0.73  ████████
+
 Volatility           +0.65  ██████
 Fixed_income         +0.30  ███
 Currency             +0.48  █████
